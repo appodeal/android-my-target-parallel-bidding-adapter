@@ -1,0 +1,1 @@
+# Android myTarget Appodeal parallel bidding adapter
